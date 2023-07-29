@@ -1,0 +1,4 @@
+dataset_FER/
+*.png
+*.jpg
+__pycache__
