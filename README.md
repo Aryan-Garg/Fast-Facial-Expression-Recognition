@@ -10,12 +10,9 @@
 
 ---
 
-### NOTE about Baseline scripts under `models` dir
+### ToDo : 
 
-All scripts can be run independently hence the redundant code in each script.
-
-Why was this done?
-> So that a notebook could call each one sequentially and results could be found in one place
+make a single fast_baseline.py file by passing in model name as a param 
 
 ---       
 
