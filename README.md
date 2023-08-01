@@ -8,11 +8,6 @@
 
 ## Usage:
 
----
-
-### ToDo : 
-
-make a single fast_baseline.py file by passing in model name as a param 
 
 ---       
 
