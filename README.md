@@ -5,7 +5,8 @@
 
 ## Compute Used:
 
-GPU 0: NVIDIA GeForce RTX 3090
+GPU 0: NVIDIA GeForce RTX 3090     
+
 GPU 1: NVIDIA GeForce GTX 1080 Ti 
 
 ## Usage/Flow:
