@@ -24,6 +24,22 @@ GPU 1: NVIDIA GeForce GTX 1080 Ti
 
 ---       
 
+# Dataset class distribution:  
+
+## Original:
+```
+{'Happy': 8989, 'Neutral': 6198, 'Sad': 6077, 'Fear': 5121, 'Angry': 4953, 'Surprise': 4002, 'Disgust': 547}
+```
+
+![orig_class_distribution](class_count_original.png)
+
+## (Somewhat) Cleaned dataset:
+```
+{'Angry': 4905, 'Disgust': 535, 'Fear': 5078, 'Happy': 8957, 'Neutral': 6151, 'Sad': 6042, 'Surprise': 3974}
+```
+![class_distribution](class_count.png)
+
+---
 # Custom Model Summaries:
 
 1. Custom Convolutional Neural Net:
