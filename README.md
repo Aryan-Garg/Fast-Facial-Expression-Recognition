@@ -128,7 +128,7 @@ Estimated Total Size (MB): 589.77
 | ResNet101            | 61.43       |        -         | 50     |
 | Visformer_small      | 66.59       |        -         | 50     |
 | vit_base_patch16_224 | 68.58       |        -         | 50     |
-| vit_base_r50_s16_224 | 70.14       |        -         | 50     |
+| vit_base_r50_s16_224 | 70.14       |       98.67      | 50     |
 | Scratch_CNN(ours)    | 50          |        -         | 7      |
 | Scratch FC-NN(ours)  | 43.75       |        -         | 10     |
 | VGG16                | -           |        -         | -      |
