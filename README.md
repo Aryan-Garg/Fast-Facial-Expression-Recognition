@@ -15,10 +15,13 @@ GPU 1: NVIDIA GeForce GTX 1080 Ti
 
 2. Go through baselines.ipynb or jump to [Results](#results-accuracy) directly in this report. `models/fast_baselines.py` also saves a submission csv for the test set. Please find the `submissions` directory to evaluate the methods.
 
-3. Go through scratch.ipynb to train & test our custom models. **Note** that you will need to enter your Weights and Biases key OR comment out all logging even in the core Lightning Module (not recommended)
+3. Go through `scratch.ipynb` to train & test our custom models. **Note** that you will need to enter your Weights and Biases key OR comment out all logging even in the core Lightning Module (not recommended)
 
-4. Go through ensemble.ipynb for better results (Work in Progress)
+4. Go through `ensemble.ipynb` for better results (Work in Progress)
 
+5. ToDo: Experiment with different augmentations (use albumentations)
+
+   
 (Run Notebooks directly. No need to run any script explicitly)
 
 
