@@ -13,7 +13,7 @@ GPU 1: NVIDIA GeForce GTX 1080 Ti
 
 1. Go through eda.ipynb for a comprehensive exploratory data analysis with dataset cleaning as well.
 
-2. Go through baselines.ipynb or jump to [Results](#results-accuracy) directly in this report. `models/fast_baselines.ipynb` also saves a submission csv for the test set. Please find the `submissions` directory to evaluate the methods.
+2. Go through baselines.ipynb or jump to [Results](#results-accuracy) directly in this report. `models/fast_baselines.py` also saves a submission csv for the test set. Please find the `submissions` directory to evaluate the methods.
 
 3. Go through scratch.ipynb to train & test our custom models. **Note** that you will need to enter your Weights and Biases key OR comment out all logging even in the core Lightning Module (not recommended)
 
